@@ -1,0 +1,282 @@
+<div class="color-block z-depth-2 AliceBlue #F0F8FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;AliceBlue #F0F8FF</p></label></div>
+<div class="color-block z-depth-2 AntiqueWhite #FAEBD7">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;AntiqueWhite #FAEBD7</p></label></div>
+<div class="color-block z-depth-2 Aqua #00FFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Aqua #00FFFF</p></label></div>
+<div class="color-block z-depth-2 Aquamarine #7FFFD4">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Aquamarine #7FFFD4</p></label></div>
+<div class="color-block z-depth-2 Azure #F0FFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Azure #F0FFFF</p></label></div>
+<div class="color-block z-depth-2 Beige #F5F5DC">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Beige #F5F5DC</p></label></div>
+<div class="color-block z-depth-2 Bisque #FFE4C4">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Bisque #FFE4C4</p></label></div>
+<div class="color-block z-depth-2 Black #000000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Black #000000</p></label></div>
+<div class="color-block z-depth-2 BlanchedAlmond #FFEBCD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;BlanchedAlmond #FFEBCD</p></label></div>
+<div class="color-block z-depth-2 Blue #0000FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Blue #0000FF</p></label></div>
+<div class="color-block z-depth-2 BlueViolet #8A2BE2">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;BlueViolet #8A2BE2</p></label></div>
+<div class="color-block z-depth-2 Brown #A52A2A">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Brown #A52A2A</p></label></div>
+<div class="color-block z-depth-2 BurlyWood #DEB887">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;BurlyWood #DEB887</p></label></div>
+<div class="color-block z-depth-2 CadetBlue #5F9EA0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;CadetBlue #5F9EA0</p></label></div>
+<div class="color-block z-depth-2 Chartreuse #7FFF00">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Chartreuse #7FFF00</p></label></div>
+<div class="color-block z-depth-2 Chocolate #D2691E">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Chocolate #D2691E</p></label></div>
+<div class="color-block z-depth-2 Coral #FF7F50">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Coral #FF7F50</p></label></div>
+<div class="color-block z-depth-2 CornflowerBlue #6495ED">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;CornflowerBlue #6495ED</p></label></div>
+<div class="color-block z-depth-2 Cornsilk #FFF8DC">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Cornsilk #FFF8DC</p></label></div>
+<div class="color-block z-depth-2 Crimson #DC143C">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Crimson #DC143C</p></label></div>
+<div class="color-block z-depth-2 Cyan #00FFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Cyan #00FFFF</p></label></div>
+<div class="color-block z-depth-2 DarkBlue #00008B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkBlue #00008B</p></label></div>
+<div class="color-block z-depth-2 DarkCyan #008B8B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkCyan #008B8B</p></label></div>
+<div class="color-block z-depth-2 DarkGoldenRod #B8860B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkGoldenRod #B8860B</p></label></div>
+<div class="color-block z-depth-2 DarkGray #A9A9A9">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkGray #A9A9A9</p></label></div>
+<div class="color-block z-depth-2 DarkGreen #006400">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkGreen #006400</p></label></div>
+<div class="color-block z-depth-2 DarkKhaki #BDB76B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkKhaki #BDB76B</p></label></div>
+<div class="color-block z-depth-2 DarkMagenta #8B008B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkMagenta #8B008B</p></label></div>
+<div class="color-block z-depth-2 DarkOliveGreen #556B2F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkOliveGreen #556B2F</p></label></div>
+<div class="color-block z-depth-2 DarkOrange #FF8C00">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkOrange #FF8C00</p></label></div>
+<div class="color-block z-depth-2 DarkOrchid #9932CC">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkOrchid #9932CC</p></label></div>
+<div class="color-block z-depth-2 DarkRed #8B0000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkRed #8B0000</p></label></div>
+<div class="color-block z-depth-2 DarkSalmon #E9967A">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkSalmon #E9967A</p></label></div>
+<div class="color-block z-depth-2 DarkSeaGreen #8FBC8F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkSeaGreen #8FBC8F</p></label></div>
+<div class="color-block z-depth-2 DarkSlateBlue #483D8B">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkSlateBlue #483D8B</p></label></div>
+<div class="color-block z-depth-2 DarkSlateGray #2F4F4F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkSlateGray #2F4F4F</p></label></div>
+<div class="color-block z-depth-2 DarkTurquoise #00CED1">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkTurquoise #00CED1</p></label></div>
+<div class="color-block z-depth-2 DarkViolet #9400D3">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DarkViolet #9400D3</p></label></div>
+<div class="color-block z-depth-2 DeepPink #FF1493">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DeepPink #FF1493</p></label></div>
+<div class="color-block z-depth-2 DeepSkyBlue #00BFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DeepSkyBlue #00BFFF</p></label></div>
+<div class="color-block z-depth-2 DimGray #696969">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DimGray #696969</p></label></div>
+<div class="color-block z-depth-2 DodgerBlue #1E90FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;DodgerBlue #1E90FF</p></label></div>
+<div class="color-block z-depth-2 FireBrick #B22222">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;FireBrick #B22222</p></label></div>
+<div class="color-block z-depth-2 FloralWhite #FFFAF0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;FloralWhite #FFFAF0</p></label></div>
+<div class="color-block z-depth-2 ForestGreen #228B22">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;ForestGreen #228B22</p></label></div>
+<div class="color-block z-depth-2 Fuchsia #FF00FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Fuchsia #FF00FF</p></label></div>
+<div class="color-block z-depth-2 Gainsboro #DCDCDC">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Gainsboro #DCDCDC</p></label></div>
+<div class="color-block z-depth-2 GhostWhite #F8F8FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;GhostWhite #F8F8FF</p></label></div>
+<div class="color-block z-depth-2 Gold #FFD700">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Gold #FFD700</p></label></div>
+<div class="color-block z-depth-2 GoldenRod #DAA520">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;GoldenRod #DAA520</p></label></div>
+<div class="color-block z-depth-2 Gray #808080">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Gray #808080</p></label></div>
+<div class="color-block z-depth-2 Green #008000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Green #008000</p></label></div>
+<div class="color-block z-depth-2 GreenYellow #ADFF2F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;GreenYellow #ADFF2F</p></label></div>
+<div class="color-block z-depth-2 HoneyDew #F0FFF0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;HoneyDew #F0FFF0</p></label></div>
+<div class="color-block z-depth-2 HotPink #FF69B4">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;HotPink #FF69B4</p></label></div>
+<div class="color-block z-depth-2 IndianRed #CD5C5C">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;IndianRed #CD5C5C</p></label></div>
+<div class="color-block z-depth-2 Indigo #4B0082">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Indigo #4B0082</p></label></div>
+<div class="color-block z-depth-2 Ivory #FFFFF0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Ivory #FFFFF0</p></label></div>
+<div class="color-block z-depth-2 Khaki #F0E68C">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Khaki #F0E68C</p></label></div>
+<div class="color-block z-depth-2 Lavender #E6E6FA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Lavender #E6E6FA</p></label></div>
+<div class="color-block z-depth-2 LavenderBlush #FFF0F5">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LavenderBlush #FFF0F5</p></label></div>
+<div class="color-block z-depth-2 LawnGreen #7CFC00">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LawnGreen #7CFC00</p></label></div>
+<div class="color-block z-depth-2 LemonChiffon #FFFACD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LemonChiffon #FFFACD</p></label></div>
+<div class="color-block z-depth-2 LightBlue #ADD8E6">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightBlue #ADD8E6</p></label></div>
+<div class="color-block z-depth-2 LightCoral #F08080">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightCoral #F08080</p></label></div>
+<div class="color-block z-depth-2 LightCyan #E0FFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightCyan #E0FFFF</p></label></div>
+<div class="color-block z-depth-2 LightGoldenRodYellow #FAFAD2">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightGoldenRodYellow #FAFAD2</p></label></div>
+<div class="color-block z-depth-2 LightGray #D3D3D3">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightGray #D3D3D3</p></label></div>
+<div class="color-block z-depth-2 LightGreen #90EE90">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightGreen #90EE90</p></label></div>
+<div class="color-block z-depth-2 LightPink #FFB6C1">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightPink #FFB6C1</p></label></div>
+<div class="color-block z-depth-2 LightSalmon #FFA07A">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightSalmon #FFA07A</p></label></div>
+<div class="color-block z-depth-2 LightSeaGreen #20B2AA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightSeaGreen #20B2AA</p></label></div>
+<div class="color-block z-depth-2 LightSkyBlue #87CEFA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightSkyBlue #87CEFA</p></label></div>
+<div class="color-block z-depth-2 LightSlateGrey #778899">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightSlateGrey #778899</p></label></div>
+<div class="color-block z-depth-2 LightSteelBlue #B0C4DE">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightSteelBlue #B0C4DE</p></label></div>
+<div class="color-block z-depth-2 LightYellow #FFFFE0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LightYellow #FFFFE0</p></label></div>
+<div class="color-block z-depth-2 Lime #00FF00">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Lime #00FF00</p></label></div>
+<div class="color-block z-depth-2 LimeGreen #32CD32">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;LimeGreen #32CD32</p></label></div>
+<div class="color-block z-depth-2 Linen #FAF0E6">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Linen #FAF0E6</p></label></div>
+<div class="color-block z-depth-2 Magenta #FF00FF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Magenta #FF00FF</p></label></div>
+<div class="color-block z-depth-2 Maroon #800000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Maroon #800000</p></label></div>
+<div class="color-block z-depth-2 MediumAquaMarine #66CDAA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumAquaMarine #66CDAA</p></label></div>
+<div class="color-block z-depth-2 MediumBlue #0000CD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumBlue #0000CD</p></label></div>
+<div class="color-block z-depth-2 MediumOrchid #BA55D3">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumOrchid #BA55D3</p></label></div>
+<div class="color-block z-depth-2 MediumPurple #9370DB">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumPurple #9370DB</p></label></div>
+<div class="color-block z-depth-2 MediumSeaGreen #3CB371">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumSeaGreen #3CB371</p></label></div>
+<div class="color-block z-depth-2 MediumSlateBlue #7B68EE">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumSlateBlue #7B68EE</p></label></div>
+<div class="color-block z-depth-2 MediumSpringGreen #00FA9A">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumSpringGreen #00FA9A</p></label></div>
+<div class="color-block z-depth-2 MediumTurquoise #48D1CC">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumTurquoise #48D1CC</p></label></div>
+<div class="color-block z-depth-2 MediumVioletRed #C71585">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MediumVioletRed #C71585</p></label></div>
+<div class="color-block z-depth-2 MidnightBlue #191970">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MidnightBlue #191970</p></label></div>
+<div class="color-block z-depth-2 MintCream #F5FFFA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MintCream #F5FFFA</p></label></div>
+<div class="color-block z-depth-2 MistyRose #FFE4E1">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;MistyRose #FFE4E1</p></label></div>
+<div class="color-block z-depth-2 Moccasin #FFE4B5">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Moccasin #FFE4B5</p></label></div>
+<div class="color-block z-depth-2 NavajoWhite #FFDEAD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;NavajoWhite #FFDEAD</p></label></div>
+<div class="color-block z-depth-2 Navy #000080">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Navy #000080</p></label></div>
+<div class="color-block z-depth-2 OldLace #FDF5E6">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;OldLace #FDF5E6</p></label></div>
+<div class="color-block z-depth-2 Olive #808000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Olive #808000</p></label></div>
+<div class="color-block z-depth-2 OliveDrab #6B8E23">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;OliveDrab #6B8E23</p></label></div>
+<div class="color-block z-depth-2 Orange #FFA500">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Orange #FFA500</p></label></div>
+<div class="color-block z-depth-2 OrangeRed #FF4500">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;OrangeRed #FF4500</p></label></div>
+<div class="color-block z-depth-2 Orchid #DA70D6">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Orchid #DA70D6</p></label></div>
+<div class="color-block z-depth-2 PaleGoldenRod #EEE8AA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PaleGoldenRod #EEE8AA</p></label></div>
+<div class="color-block z-depth-2 PaleGreen #98FB98">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PaleGreen #98FB98</p></label></div>
+<div class="color-block z-depth-2 PaleTurquoise #AFEEEE">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PaleTurquoise #AFEEEE</p></label></div>
+<div class="color-block z-depth-2 PaleVioletRed #DB7093">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PaleVioletRed #DB7093</p></label></div>
+<div class="color-block z-depth-2 PapayaWhip #FFEFD5">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PapayaWhip #FFEFD5</p></label></div>
+<div class="color-block z-depth-2 PeachPuff #FFDAB9">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PeachPuff #FFDAB9</p></label></div>
+<div class="color-block z-depth-2 Peru #CD853F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Peru #CD853F</p></label></div>
+<div class="color-block z-depth-2 Pink #FFC0CB">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Pink #FFC0CB</p></label></div>
+<div class="color-block z-depth-2 Plum #DDA0DD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Plum #DDA0DD</p></label></div>
+<div class="color-block z-depth-2 PowderBlue #B0E0E6">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;PowderBlue #B0E0E6</p></label></div>
+<div class="color-block z-depth-2 Purple #800080">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Purple #800080</p></label></div>
+<div class="color-block z-depth-2 RebeccaPurple #663399">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;RebeccaPurple #663399</p></label></div>
+<div class="color-block z-depth-2 Red #FF0000">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Red #FF0000</p></label></div>
+<div class="color-block z-depth-2 RosyBrown #BC8F8F">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;RosyBrown #BC8F8F</p></label></div>
+<div class="color-block z-depth-2 RoyalBlue #4169E1">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;RoyalBlue #4169E1v</p></label></div>
+<div class="color-block z-depth-2 SaddleBrown #8B4513">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SaddleBrown #8B4513</p></label></div>
+<div class="color-block z-depth-2 Salmon #FA8072">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Salmon #FA8072</p></label></div>
+<div class="color-block z-depth-2 SandyBrown #F4A460">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SandyBrown #F4A460</p></label></div>
+<div class="color-block z-depth-2 SeaGreen #2E8B57">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SeaGreen #2E8B57</p></label></div>
+<div class="color-block z-depth-2 SeaShell #FFF5EE">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SeaShell #FFF5EE</p></label></div>
+<div class="color-block z-depth-2 Sienna #A0522D">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Sienna #A0522D</p></label></div>
+<div class="color-block z-depth-2 Silver #C0C0C0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Silver #C0C0C0v</p></label></div>
+<div class="color-block z-depth-2 SkyBlue #87CEEB">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SkyBlue #87CEEB</p></label></div>
+<div class="color-block z-depth-2 SlateBlue #6A5ACD">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SlateBlue #6A5ACD</p></label></div>
+<div class="color-block z-depth-2 SlateGray #708090">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SlateGray #708090</p></label></div>
+div class="color-block z-depth-2 Snow #FFFAFA">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Snow #FFFAFA</p></label></div>
+<div class="color-block z-depth-2 c">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SpringGreen #00FF7F</p></label></div>
+<div class="color-block z-depth-2 SteelBlue #4682B4">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;SteelBlue #4682B4</p></label></div>
+<div class="color-block z-depth-2 Tan #D2B48C">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Tan #D2B48C</p></label></div>
+<div class="color-block z-depth-2 Teal #008080">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Teal #008080</p></label></div>
+<div class="color-block z-depth-2 Thistle #D8BFD8">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Thistle #D8BFD8</p></label></div>
+<div class="color-block z-depth-2 Tomato #FF6347">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Tomato #FF6347</p></label></div>
+<div class="color-block z-depth-2 Turquoise #40E0D0">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Turquoise #40E0D0</p></label></div>
+<div class="color-block z-depth-2 Violet #EE82EE">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Violet #EE82EE</p></label></div>
+<div class="color-block z-depth-2 Wheat #F5DEB3">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Wheat #F5DEB3</p></label></div>
+<div class="color-block z-depth-2 White #FFFFFF">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;White #FFFFFFv</p></label></div>
+<div class="color-block z-depth-2 WhiteSmoke #F5F5F5">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;WhiteSmoke #F5F5F5</p></label></div>
+<div class="color-block z-depth-2 Yellow #FFFF00">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;Yellow #FFFF00</p></label></div>
+<div class="color-block z-depth-2 YellowGreen #9ACD32">
+                <label style="margin-left: 1vw;"><p><br><input id="" class="fcheckbox" type="checkbox" name="Capcolor" /> &emsp;YellowGreen #9ACD32</p></label></div>
