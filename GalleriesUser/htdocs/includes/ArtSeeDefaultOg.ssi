@@ -1,0 +1,10 @@
+<!-- these meta tags display the Default Preview in Facebook -->
+<meta property="og:url" content="https://isoblock.com/ArtSee.shtml" >
+<meta property="og:type" content="website" >
+<meta property="og:title" content= "an Opt-In Image viewer" >
+<meta property="og:description" content="This link displays the ArtSee home page." >
+<meta property="og:image:type"       content="image/png" >
+<meta property="og:image:width"      content="1800" >
+<meta property="og:image:height"     content="960" >
+<meta property="og:image" content="https://isoblock.com/ArtSee/scenery98plus.png" >
+<meta property="fb:app_id" content="776511182718059" >

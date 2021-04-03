@@ -1,0 +1,5 @@
+<!-- ++++++++++++++++++++++ -->
+<!-- Logo and name -->
+<header class= "myHeader" id="myHeader">
+	<img class="Logo" id="Logo" src="https://isoblock.com/ArtSee/Images/ArtSeeLogo.gif" alt="ArtSee Logo eye" ><button class="toggleLogo"></button><span class="sitename" id="sitename">ArtSee</span><span class="siteSubtitle">Opt-in Image Viewer for Facebook</span>
+</header>

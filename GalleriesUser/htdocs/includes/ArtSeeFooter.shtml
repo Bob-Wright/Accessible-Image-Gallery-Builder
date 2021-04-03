@@ -1,0 +1,12 @@
+<!-- +++++++++++++++++++++++ -->
+<!-- footer -->
+<footer id="myFooter">
+  <details>
+    <summary><span class="material-icons" style="color: #966">message</span>&nbsp;&nbsp;&nbsp;Contents &copy; 2019 by&nbsp;<span class="material-icons">mail</span>&nbsp;<a href="mailto:bob_wright@isoblock.com">Bob Wright.</a>&ensp;Last modified <!--#echo var="LAST_MODIFIED" --></summary>
+    <p>&nbsp;The Name, Images, &amp; Logo of "IsoBlock" are trademarks of&nbsp;<A href="http://isoblock.com/">IsoBlock.com</A></p>
+	<p>Read the rules you agree to by using this website in our Terms of Service. We may participate in an affiliate advertising program designed to provide a means for us to earn fees by linking to affiliated sites. ArtSee uses session cookies and performs site analytics, and is supported by advertising and affiliate links. Read about what we do with the data we gather in our Privacy Policy.</p>
+	<p>ArtSee is published under a Creative Commons license except where otherwise noted.</p>
+	<p>Information and knowledge is power. Power will get you freedom. Freedom is non-negotiable. Feel free to copy and then modify, republish, sell, or use any of the code used in the construction of this site at any time. The codebase is public at <A href="https://github.com/Bob-Wright/ArtSee">Github</A></p>
+	<p>Special props and shout outs to many folks for all the tutes and countless examples that contributed to this result! Thank you all.</p>
+  </details>
+</footer>

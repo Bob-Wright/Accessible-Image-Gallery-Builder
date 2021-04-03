@@ -1,0 +1,29 @@
+<!-- +++++++++++++++++++++++ -->
+<!-- NavigationMenu -->	
+<div class="navbar-wrapper" id="navbar-wrapper" style="display: block;">
+<nav class="navbar" id="navbar" style="display: block;">
+	<ul class="menu">
+		<li class="menuColumn" id="menuColumn1"><div><a href="https://isoblock.com/ArtSee.shtml"><span class="material-icons">home</span> ArtSee</a></div></li>
+		<li class="menuColumn" id="menuColumn2"><div><a href="javascript:void(0);"><span class="material-icons">info_outline</span> About</a></div>
+			<ul>
+				<li class="menuEntry"><a href="https://isoblock.com/ArtSee/Motives.shtml">Why ArtSee?</a></li>
+				<li class="menuEntry"><a href="https://isoblock.com/ArtSee/AboutArtSee.shtml">About ArtSee</a></li>
+				<li class="menuEntry"><a href="https://isoblock.com/ArtSee/PrivacyPolicy.shtml">Privacy Policy</a></li>
+				<li class="menuEntry"><a href="https://isoblock.com/ArtSee/CookiePolicy.shtml">Cookies Policy</a></li>
+				<li class="menuEntry"><a href="https://isoblock.com/ArtSee/TermsOfService.shtml">Terms of Service</a></li>
+			</ul>
+		</li>
+		<li class="menuColumn" id="menuColumn3"><div><a href="javascript:void(0);"><span class="material-icons">mode_edit</span> Operations</a></div>
+			<ul>
+				<li class="menuEntry"><a href="https://isoblock.com/Upload.shtml?upload=U">Upload an Image</a></li>
+				<li class="menuEntry"><a href="https://isoblock.com/Upload.shtml?manage=M">Delete Images</a></li>
+			</ul>
+		</li>
+		<li class="menuColumn" id="menuColumn4"><div class="fb-like" data-href="https://www.facebook.com/ArtSee-1244259252405642" data-width="47" data-layout="button" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
+</li>
+	</ul>
+	<div class="clearfix"></div>
+</nav>
+</div>
+<!-- end navigation buttons  -->
+<!-- =========================== -->

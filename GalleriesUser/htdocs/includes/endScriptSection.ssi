@@ -1,0 +1,13 @@
+<!-- ++++++++++++++++++++ -->
+<!-- Java script section -->
+<!-- Placed at the end of the document so the page loads faster -->
+<script src="https://isoblock.com/js/jquery-3.3.1.min.js"></script>
+<!-- generic sticky functions -->
+<script src="https://isoblock.com/js/stickUp.js"></script>
+<script src="https://isoblock.com/js/context.js"></script>
+<script src="https://isoblock.com/js/nunavbaropen.js"></script>
+<script src="https://isoblock.com/js/logoSwap.js"></script>
+<script src="https://isoblock.com/js/modal.js"></script>
+<script src="https://isoblock.com/js/swipe.js"></script>
+<!-- End of the Java script section-->
+<!-- ======================= -->
